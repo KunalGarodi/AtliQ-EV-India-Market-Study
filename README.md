@@ -7,6 +7,39 @@ AtliQ Motors is an automotive giant from the USA specializing in electric vehicl
 
 Bruce Haryali, the Chief of AtliQ Motors India, tasked the data analytics team with conducting a detailed market study of the existing EV/Hybrid market in India. This repository contains the data, analysis, and presentation materials that were produced as part of this study.
 
+
+### 🎯 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
+
+➡ 𝖠𝗇𝖺𝗅𝗒𝗓𝖾 𝖤𝖵 𝗆𝖺𝗋𝗄𝖾𝗍 𝗍𝗋𝖾𝗇𝖽𝗌 𝖺𝗇𝖽 𝗀𝗋𝗈𝗐𝗍𝗁 𝗉𝖺𝗍𝗍𝖾𝗋𝗇𝗌 𝗂𝗇 𝖨𝗇𝖽𝗂𝖺.
+
+➡ 𝖤𝗏𝖺𝗅𝗎𝖺𝗍𝖾 𝖤𝖵 𝗆𝖺𝗋𝗄𝖾𝗍 𝗉𝖾𝗇𝖾𝗍𝗋𝖺𝗍𝗂𝗈𝗇 𝖻𝗒 𝗌𝗍𝖺𝗍𝖾 𝖿𝗈𝗋 𝗀𝗋𝗈𝗐𝗍𝗁 𝗈𝗉𝗉𝗈𝗋𝗍𝗎𝗇𝗂𝗍𝗂𝖾𝗌.
+
+➡ 𝖤𝗑𝖺𝗆𝗂𝗇𝖾 𝗉𝖾𝗋𝖿𝗈𝗋𝗆𝖺𝗇𝖼𝖾 𝖺𝗇𝖽 𝗆𝖺𝗋𝗄𝖾𝗍 𝗌𝗁𝖺𝗋𝖾 𝗈𝖿 𝗅𝖾𝖺𝖽𝗂𝗇𝗀 𝖤𝖵 𝗆𝖺𝗇𝗎𝖿𝖺𝖼𝗍𝗎𝗋𝖾𝗋𝗌.
+
+➡ 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝗋𝖾𝖼𝗈𝗆𝗆𝖾𝗇𝖽𝖺𝗍𝗂𝗈𝗇𝗌 𝖿𝗈𝗋 𝗆𝖺𝗋𝗄𝖾𝗍 𝖾𝗇𝗍𝗋𝗒 𝖺𝗇𝖽 𝗌𝗍𝗋𝖺𝗍𝖾𝗀𝗂𝖼 𝖾𝗑𝗉𝖺𝗇𝗌𝗂𝗈𝗇.
+
+
+
+### 💡𝐊𝐞𝐲 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬
+
+➡ 𝐌𝐚𝐫𝐤𝐞𝐭 𝐃𝐨𝐦𝐢𝐧𝐚𝐧𝐜𝐞: Tata Motors currently leads the Indian EV market across all 4-wheeler segments.
+
+➡ 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧: Goa stands out with the highest EV penetration rate at 18%, followed by Maharashtra and Karnataka.
+
+➡ 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Maharashtra boasts the largest network of public charging stations.
+
+➡ 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐏𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞: 2-wheelers dominate the Indian EV market, accounting for approximately 91% of sales.
+
+  
+
+### 🗒 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬:
+
+➡ Invest in R&D to bring technology advancement.
+
+➡ Leverage government subsidies effectively.
+
+➡ Tailor marketing and products for the Indian market.
+
 ## Key Analysis Questions
 
 The study aimed to answer the following key questions:
